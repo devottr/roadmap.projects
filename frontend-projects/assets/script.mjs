@@ -2,7 +2,7 @@
   const bricks = [
     {
       name: "single-page-CV",
-      url: "https://devottr.github.io/roadmap_projects/frontend-projects/single-page-CV/",
+      url: "https://devottr.github.io/roadmap.projects/frontend-projects/single-page-CV/",
       icon: "📜",
       description: "Create a single-page HTML CV to showcase your career history.",
       category: "",
